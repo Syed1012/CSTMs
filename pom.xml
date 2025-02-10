@@ -21,6 +21,7 @@
     <!-- Modules section -->
     <modules>
         <module>ticket-service</module>
+		<module>user-service</module>
         <!-- Add other microservices here when they are created -->
     </modules>
 
