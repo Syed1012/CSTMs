@@ -16,6 +16,7 @@
     <description>Handles user authentication and roles</description>
 
     <dependencies>
+
         <!-- Spring Boot Starter -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
